@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.ligi</groupId>
+  <artifactId>AXT</artifactId>
+  <version>0.21</version>
+  <versioning>
+    <versions>
+      <version>0.21</version>
+    </versions>
+    <lastUpdated>20130920004814</lastUpdated>
+  </versioning>
+</metadata>
